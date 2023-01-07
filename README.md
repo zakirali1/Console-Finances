@@ -1,6 +1,6 @@
 # Console-Finances
 
-This challenge was based on calculate some common functions based on a provided array. The array contained months and profit/loss taken in respective months over a period of time. The task included calculating a total number of data points within the aray, the average for profit/loss, the largest increase in profit and which month, as well as the largeat decrease in profit taken and which month.
+This challenge was based on calculating some common functions based on a provided array. The array contained months and profit/loss taken in respective months over a period of time. The task included calculating a total number of data points within the aray, the average for profit/loss, the largest increase in profit and which month, as well as the largeat decrease in profit taken and which month.
 
 Screenshot included of the deployed application:
 
