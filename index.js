@@ -125,7 +125,7 @@ const arrr = [];
    }, 0);
 
    //add html with result
-   total.textContent = `Total $${sums}`;
+   total.textContent = `Total: $${sums}`;
 
    //empty array
    const diff = [];
@@ -146,7 +146,7 @@ const arrr = [];
 
 //add html with avergage result 
 
-   average.textContent = `Average: $${avgCalc2}`;
+   average.textContent = `Average Change: $${avgCalc2}`;
 
    // calculate largest increase in profit for month
    let largestIncrease = 0;
@@ -174,7 +174,7 @@ const arrr = [];
   let largestDecrease = 0;
 
   //loop through the array and find the biggest decrease in profit 
-  
+
 for(let i = 1; i < arrr.length; i++) {
   const current = arrr[i];
   const previous = arrr[i - 1];
